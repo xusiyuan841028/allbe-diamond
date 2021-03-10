@@ -12,6 +12,6 @@
   "author": "Phoenix Tsui",
   "license": "ISC",
   "dependencies": {
-    "webpack": "^1.13.2"
+    "webpack": "^2.2.0"
   }
 }
